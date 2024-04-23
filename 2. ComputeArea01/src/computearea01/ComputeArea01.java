@@ -41,27 +41,29 @@ public class ComputeArea01 {
 //        int width = input2.nextInt();
 //        double result = height * width;
 //        System.out.println(result);
+//
+//
+// u can use Scanner class one time in a programm
         Scanner input1 = new Scanner(System.in);
         System.out.println("Enter 1st number: ");
         int firstNumber = input1.nextInt();
 
-        Scanner input2 = new Scanner(System.in);
+//        Scanner input2 = new Scanner(System.in);
         System.out.println("Enter 2nd number: ");
-        int secondNumber = input2.nextInt();
+        int secondNumber = input1.nextInt();
 
-        Scanner input3 = new Scanner(System.in);
+//        Scanner input3 = new Scanner(System.in);
         System.out.println("Enter 3rd number: ");
-        int thirdNumber = input3.nextInt();
+        int thirdNumber = input1.nextInt();
 
-        Scanner input4 = new Scanner(System.in);
+//        Scanner input4 = new Scanner(System.in);
         System.out.println("Enter 4th number");
-        int fourthNumber = input4.nextInt();
+        int fourthNumber = input1.nextInt();
 
         double result = firstNumber + secondNumber + thirdNumber + fourthNumber;
 
         System.out.println("Sum: " + result);
 
-        
     }
 
 }
