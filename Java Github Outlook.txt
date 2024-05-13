@@ -1,0 +1,22 @@
+1.
+2.
+3. Fahrenheit To Celsius / Celsius To Fahrenheit
+4. Current time
+5. Grade Finder / Max Min Number / Random Number Finder
+6. Leap Year 
+7. Find Week-Day with number
+8.
+9. Facebook LogIn / Google LogIn / Start word with Vowel
+10. Loop: Start and End point
+11. Guess Number Game
+12. do-while loop: Guess Number Game
+13. for loop: Guess Number Game
+14. Prime Number / (1 to 100) Prime Number
+15. Factorial Number - int / long Statement
+16. Continue Loop / Break Loop
+17. Prime Number - Method Use
+18. Random PassWord Finder
+19. Palindrome Method
+20. Range Of Prime Number
+21. Two Dimensional Array
+22. 
