@@ -1,0 +1,3 @@
+Write an example of generic?
+
+Make an java example to read and write a input from file?
